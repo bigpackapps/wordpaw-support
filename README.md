@@ -1,1 +1,0 @@
-# wordpaw-support
